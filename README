@@ -1,6 +1,6 @@
 # ps-powershell
 
-This wrapper script is used to call Powershell scripts from the Process Monitor. PeopleSoft's batch scheduling system support various tools but it doesn't supporting running shell scripts. David Kurtz posted a solution on running *nix shell scripts and this project is entirely based on his work.
+[This wrapper script is used to call Powershell scripts from the Process Monitor](). PeopleSoft's batch scheduling system support various tools but it doesn't supporting running shell scripts. David Kurtz posted a solution on running *nix shell scripts and this project is entirely based on his work.
 
 * http://www.go-faster.co.uk/docs/process_scheduler_shell_scripts.pdf
 * http://blog.psftdba.com/2007/09/running-unix-commands-and-scripts-from.html
